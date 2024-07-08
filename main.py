@@ -9,7 +9,7 @@ from hotkey_code.reformat_name import reformat_name
 
 
 
-# Define hotkeys for the functionsDed Text Here 8 Jul 2024 UNKNOWN
+# Define hotkeys for the functions
 keyboard.add_hotkey('ctrl+shift+r', reformat_name)
 keyboard.add_hotkey('ctrl+shift+e', extract_contact_details)
 keyboard.add_hotkey('ctrl+shift+d', extract_info_and_paste)

@@ -41,7 +41,7 @@ def extract_info_and_paste():
     services = ' '.join(service_abbrs)
 
     # Combine the name, services, and date
-    combined_details = f"Anthem {full_name} {services} {current_date}"
+    combined_details = f"United {full_name} {services} {current_date}"
     print(f"Combined details: {combined_details}")  # Debug print
 
     # Copy the combined details to the clipboard
