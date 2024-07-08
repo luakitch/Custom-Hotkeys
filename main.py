@@ -18,6 +18,6 @@ keyboard.add_hotkey('ctrl+alt+p', extract_patient_info)
 # Keep the script running
 print("Press Ctrl+Shift+R to reformat the selected name.")
 print("Press Ctrl+Shift+E to extract and reformat contact details.")
-print("Press Ctrl+Shift+D to paste the name along with the current date.")
+print("Press Ctrl+Shift+D to paste the name along with services and current date for United Paitents")
 print("Press Ctrl+Alt+P to extract and paste patient information.")
 keyboard.wait('ctrl+alt+shift+d')  # Press 'esc' to stop the script
